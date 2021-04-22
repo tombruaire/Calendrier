@@ -1,0 +1,16 @@
+{
+    "name": "tombr/calendrier",
+    "authors": [
+        {
+            "name": "tom",
+            "email": "tom@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"Calendar\\": "src/Calendar",
+            "App\\": "src/App"
+    	}
+    },
+    "require": {}
+}
