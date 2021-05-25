@@ -13,7 +13,7 @@ Charger et connecter la base de données -> calendar.sql
 # 3 - Connection au serveur interne de PHP
 1) Placer le dossier dans le dossier du serveur local en question (www ou htdocs)
 2) Ouvrir cmd depuis ce dossier (à l'aide du chemin d'accès)
-3) Taper la commande : php -S localhost:8000 -d dispay_errors=1 -t public
+3) Taper la commande : <pre><code>php -S localhost:8000 -d dispay_errors=1 -t public</code></pre>
 
 Ce qui donnera l'adresse url suivante : http://localhost:8000/index.php
 
